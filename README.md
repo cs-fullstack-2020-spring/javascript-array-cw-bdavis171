@@ -1,5 +1,6 @@
 # javascript_array_cw
-
+#### Great use of comments and loops!
+#### Score : 5/5
 ### Exercise 1
 
 - Create the following array ```["John", "Paul", "George", "Pete"]```
